@@ -1,0 +1,23 @@
+{
+	"name": "xshimmy/kohana-debug-toolbar",
+	"type": "kohana-module",
+	"description": "Debug toolbar for Kohana.",
+	"keywords": ["kohana", "debug"],
+	"homepage": "https://github.com/xShimmy/debug-toolbar",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ivan Brotkin",
+			"role": "Author"
+		},
+        {
+			"name": "Ivan Sosnin",
+            "email": "vansosnin@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	}
+}
